@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "a8263a34811c863f",
+    "id": "3133780e1ea79498",
     "type": "split",
     "children": [
       {
-        "id": "4a42c4b502b4f18a",
+        "id": "7ab5a9692ff793a5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "react/Hooks.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "411f0ece562c750f",
+    "id": "c3abc67fe350fd5a",
     "type": "split",
     "children": [
       {
-        "id": "a9fb0260004ec553",
+        "id": "d7dafc0143eda977",
         "type": "tabs",
         "children": [
           {
-            "id": "1e710fb92798ffac",
+            "id": "3aec51672eb9a706",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "b65a87a0df01f820",
+            "id": "82ca78828c617034",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "8effcc73661617cf",
+    "id": "d57077ca6ac80e08",
     "type": "split",
     "children": [
       {
-        "id": "f050662fb5515717",
+        "id": "9b05ad9ac2c107d5",
         "type": "tabs",
         "children": [
           {
-            "id": "866bd2cce0ab01ab",
+            "id": "ab3fea0cfb4c72fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a42c4b502b4f18a",
-  "lastOpenFiles": [
-    "react/Hooks.md"
-  ]
+  "active": "7ab5a9692ff793a5",
+  "lastOpenFiles": []
 }
